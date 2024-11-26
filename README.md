@@ -220,7 +220,7 @@ This document summarizes the EDA conducted to analyze job postings, skill demand
 
 The code used for data sourcing is publicly available on GitHub:
 
-[GitHub Repository Link](https://github.com/ludaladila/Engineering-Job-Market-Analysis/blob/main/adzuna_jobs_fetcher.py)
+[GitHub Repository Link](https://github.com/ludaladila/Engineering-Job-Market-Dataset-Analysis/blob/ludaladila-data-source/adzuna_jobs_fetcher.py)
 
 ## Ethics Statement
 
